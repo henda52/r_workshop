@@ -1,4 +1,4 @@
-# r_workshop at DRD 220608
+# R workshop at DRD 220608
 
 Arranged by Henrik Danielsson. All material licenced with CC-BY 4.0.
 
